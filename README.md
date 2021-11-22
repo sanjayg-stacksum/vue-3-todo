@@ -1,6 +1,6 @@
 # Vue 3 Todo
 
-Todo list using Vue JS
+Todo list using Vue JS.
 
 ## Project setup
 ```
